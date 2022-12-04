@@ -12,6 +12,10 @@ ___
     <a href="https://t.me/Mihey_83">
         <img align="center" alt="Telegram" width="22px" src="static/icons/social_network/telegram.png">
     </a>
+    |
+    <a href="http://miheev.su">
+		my site
+    </a>
 </div>
 
 # Technology stack
