@@ -13,7 +13,7 @@ ___
         <img align="center" alt="Telegram" width="22px" src="static/icons/social_network/telegram.png">
     </a>
     |
-    <a href="http://miheev.su">
+    <a href="https://miheev.su">
 		my site
     </a>
 </div>
