@@ -26,20 +26,27 @@ ___
 ![Python](https://img.shields.io/badge/-Python-386e9d?style=flat&logo=Python&logoColor=ffd241&)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat&logo=Django)
+![FastAPI](https://img.shields.io/badge/FatAPI-000000?style=for-the-badge&logo=FastAPI)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+### Frontend
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Other
 
 ![Aiogram](https://img.shields.io/badge/-Aiogram-blue?style=flat&logo=)
 ![PyGame](https://img.shields.io/badge/-PyGame-73db28?style=flat&logo=PyGame)
-![PyQt5](https://img.shields.io/badge/-PyQt5-09db1f?style=flat&logo=PyQt5)
+![PyQt5](https://img.shields.io/badge/-PyQt5-0aad48?style=for-the-badge&logo=pyqt5)
 
 
 ### Databases
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-
+![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools
 
