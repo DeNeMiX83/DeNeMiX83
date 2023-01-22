@@ -23,9 +23,9 @@ ___
 
 ### Backend
 
-![Python](https://img.shields.io/badge/-Python-386e9d?style=flat&logo=Python&logoColor=ffd241&)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat&logo=Django)
+![Python](https://img.shields.io/badge/-Python-386e9d?style=for-the-badge&logo=Python&logoColor=ffd241&)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=for-the-badge&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=Django)
 ![FastAPI](https://img.shields.io/badge/FatAPI-000000?style=for-the-badge&logo=FastAPI)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
@@ -37,8 +37,8 @@ ___
 
 ### Other
 
-![Aiogram](https://img.shields.io/badge/-Aiogram-blue?style=flat&logo=)
-![PyGame](https://img.shields.io/badge/-PyGame-73db28?style=flat&logo=PyGame)
+![Aiogram](https://img.shields.io/badge/-Aiogram-blue?style=for-the-badge&logo=)
+![PyGame](https://img.shields.io/badge/-PyGame-73db28?style=for-the-badge&logo=PyGame)
 ![PyQt5](https://img.shields.io/badge/-PyQt5-0aad48?style=for-the-badge&logo=pyqt5)
 
 
@@ -50,11 +50,11 @@ ___
 
 ### Tools
 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
 ___
 
