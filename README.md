@@ -26,7 +26,7 @@ ___
 ![Python](https://img.shields.io/badge/-Python-386e9d?style=for-the-badge&logo=Python&logoColor=ffd241&)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=for-the-badge&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=Django)
-![FastAPI](https://img.shields.io/badge/FatAPI-000000?style=for-the-badge&logo=FastAPI)
+![FastAPI](https://img.shields.io/badge/FatAPI-323330?style=for-the-badge&logo=FastAPI)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend
