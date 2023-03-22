@@ -28,7 +28,7 @@ ___
 ![Aiohttp](https://img.shields.io/badge/-Aiohttp-DCDCDC?style=for-the-badge&logo=Aiohttp&logoColor=blue)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=for-the-badge&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=Django)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases
