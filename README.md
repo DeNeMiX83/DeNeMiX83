@@ -24,10 +24,22 @@ ___
 ### Backend
 
 ![Python](https://img.shields.io/badge/-Python-386e9d?style=for-the-badge&logo=Python&logoColor=ffd241&)
+![FastAPI](https://img.shields.io/badge/FastAPI-323330?style=for-the-badge&logo=FastAPI)
+![Aiohttp](https://img.shields.io/badge/-Aiohttp-DCDCDC?style=for-the-badge&logo=Aiohttp&logoColor=blue)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=for-the-badge&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=Django)
-![FastAPI](https://img.shields.io/badge/FastAPI-323330?style=for-the-badge&logo=FastAPI)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Databases
+
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+### Brokers
+
+![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### Frontend
 
@@ -41,16 +53,10 @@ ___
 ![PyGame](https://img.shields.io/badge/-PyGame-73db28?style=for-the-badge&logo=PyGame)
 ![PyQt5](https://img.shields.io/badge/-PyQt5-0aad48?style=for-the-badge&logo=pyqt5)
 
-
-### Databases
-
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
 ### Tools
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
